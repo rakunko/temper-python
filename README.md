@@ -1,3 +1,6 @@
+Building from the great work from Padelt and the entire development team - This new fork aims to pull the SNMP capabilities and add a simple mailer for notifications.
+Adding a rotatable log as well will be needed.
+
 This is a rewrite of a userspace USB driver for TEMPer devices presenting
 a USB ID like this: `0c45:7401 Microdia`
 My device came from [M-Ware ID7747](http://www.m-ware.de/m-ware-usb-thermometer-40--120-c-emailbenachrichtigung-id7747/a-7747/)
